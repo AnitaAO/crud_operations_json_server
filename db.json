@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "juice",
+      "category": "Electronics",
+      "date": "2023-11-11T23:00:00.000Z",
+      "freshness": "refurblished ",
+      "price": 100,
+      "comment": "good",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
