@@ -1,13 +1,40 @@
 {
   "productList": [
     {
-      "productName": "juice",
-      "category": "Electronics",
-      "date": "2023-11-11T23:00:00.000Z",
-      "freshness": "refurblished ",
+      "productName": "Banana",
+      "category": "Fruits",
+      "date": "2023-12-30T23:00:00.000Z",
+      "freshness": "Brand new ",
       "price": 100,
-      "comment": "good",
+      "comment": "this is banana",
       "id": 1
+    },
+    {
+      "productName": "Television",
+      "category": "Electronics",
+      "date": "2023-12-30T23:00:00.000Z",
+      "freshness": "Refurbished ",
+      "price": 100,
+      "comment": "This is a tv",
+      "id": 2
+    },
+    {
+      "productName": "Waterleaf",
+      "category": "Vegetables",
+      "date": "2023-12-30T23:00:00.000Z",
+      "freshness": "Brand new ",
+      "price": 50,
+      "comment": "This is Waterleaf",
+      "id": 3
+    },
+    {
+      "productName": "Radio",
+      "category": "Electronics",
+      "date": "2023-12-30T23:00:00.000Z",
+      "freshness": "Second-hand",
+      "price": 300,
+      "comment": "This is a radio set",
+      "id": 4
     }
   ],
   "comments": [
